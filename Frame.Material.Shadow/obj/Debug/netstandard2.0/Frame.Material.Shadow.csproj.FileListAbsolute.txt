@@ -1,0 +1,12 @@
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\bin\Debug\netstandard2.0\Frame.Material.Shadow.deps.json
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\bin\Debug\netstandard2.0\Frame.Material.Shadow.dll
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\bin\Debug\netstandard2.0\Frame.Material.Shadow.pdb
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\Frame.Material.Shadow.csprojAssemblyReference.cache
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\Frame.Material.Shadow.csproj.CoreCompileInputs.cache
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\Frame.Material.Shadow.AssemblyInfoInputs.cache
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\Frame.Material.Shadow.AssemblyInfo.cs
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\Frame.Material.Shadow.dll
+C:\Users\Rainier Jalova\source\repos\Frame.Material.Shadow\Frame.Material.Shadow\Frame.Material.Shadow\obj\Debug\netstandard2.0\Frame.Material.Shadow.pdb

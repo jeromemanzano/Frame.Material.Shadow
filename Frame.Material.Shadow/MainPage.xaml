@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Frame.Material.Shadow.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Frame.Material.Shadow">
+
+    <StackLayout Padding="30">
+        <Frame
+            CornerRadius="5"
+            HeightRequest="50"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="EndAndExpand">
+            <Label Text="This is a regular frame from Xamarin Forms" />
+        </Frame>
+        <local:CustomMaterialFrame
+            CornerRadius="5"
+            HeightRequest="50"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="StartAndExpand">
+            <Label Text="This is the custom frame with Material design shadows" />
+        </local:CustomMaterialFrame>
+    </StackLayout>
+
+</ContentPage>
